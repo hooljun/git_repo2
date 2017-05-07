@@ -9,7 +9,7 @@ public class Hello{
 		System.out.println("hello 哈哈哈!!!");
 		System.out.println("hello 哈哈哈!!!");
 		System.out.println("hello 哈哈哈!!!");
-		System.out.println("hello 哈哈哈!!!");
+		System.out.println("master 哈哈哈!!!");
 		System.out.println("hello git!!!");
 	}
 }
